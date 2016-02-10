@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "MN40374ucmf_2_0015.png"; bbox 0 0 2526 3246; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 337 24 845 116">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 337 24 845 116">
+     <span class='ocr_line' id='line_1_1' title="bbox 337 24 845 116; baseline -0.018 1"><span class='ocrx_word' id='word_1_1' title='bbox 337 24 339 27; x_wconf 80' lang='grc'><strong>’</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 421 39 591 116; x_wconf 85' lang='lat' dir='ltr'><strong>NOVA</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 621 38 845 112; x_wconf 73' lang='grc' dir='ltr'>ΤΤΤςΤο</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 12 120 1125 646">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 12 120 1239 580">
+     <span class='ocr_line' id='line_1_2' title="bbox 12 120 1125 352; baseline -0.017 -50"><span class='ocrx_word' id='word_1_4' title='bbox 12 337 14 341; x_wconf 8' lang='lat'><em>¹</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 133 193 595 334; x_wconf 81' lang='lat' dir='ltr'><strong>sANTANTAAAUN</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 637 120 1125 352; x_wconf 77' lang='grc' dir='ltr'>ΤΟΝΤΤΤΝΤΤΤΤΤΤ</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 216 420 1122 646; baseline -0.022 -65.575"><span class='ocrx_word' id='word_1_7' title='bbox 216 453 523 642; x_wconf 80' lang='grc' dir='ltr'>ΤΤΝΤΤΤΤ</span> <span class='ocrx_word' id='word_1_8' title='bbox 581 420 747 574; x_wconf 78' lang='grc' dir='ltr'>ΤΤΝΤ</span> <span class='ocrx_word' id='word_1_9' title='bbox 748 483 983 646; x_wconf 76' lang='grc' dir='ltr'>ΤΤΤΤΤΝ</span> <span class='ocrx_word' id='word_1_10' title='bbox 1093 429 1122 561; x_wconf 76' lang='lat'>⁵)</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1268 3246">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1268 3246">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1268 3246; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 0 0 1268 3246; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
